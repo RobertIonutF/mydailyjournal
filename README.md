@@ -1,8 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# My Daily Journal
+
+A modern web application for tracking your daily thoughts and activities, with mood tracking and AI-powered insights.
+
+## Features
+
+- 📝 Track daily thoughts and activities
+- 😊 Mood tracking for each entry
+- 📊 Visual analytics and trends
+- 🤖 AI-powered insights and patterns
+- 🌓 Dark/Light mode support
+- 📱 Responsive design
+
+## Tech Stack
+
+- **Framework**: Next.js 14
+- **Database**: PostgreSQL with Drizzle ORM
+- **Styling**: Tailwind CSS
+- **Components**: shadcn/ui
+- **Charts**: Recharts
+- **Authentication**: Coming soon
+- **AI Integration**: OpenAI
+
+## Prerequisites
+
+- Node.js 18+ 
+- PostgreSQL
+- npm/yarn/pnpm
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository:
 
 ```bash
 npm run dev
